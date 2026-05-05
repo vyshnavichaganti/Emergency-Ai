@@ -1,0 +1,8 @@
+{
+  "name": "AI Emergency Situation Guide",
+  "description": "Rapid, clear, and safe immediate actions for emergency situations like fire, snake bites, or accidents, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
